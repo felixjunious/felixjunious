@@ -9,10 +9,8 @@
 
 ## 🚀 About Me  
 
-- 📊 **Data Enthusiast**: Analyzing datasets with Python, Pandas.  
-- 📈 **Finance Buff**: Deeply interested in investment strategies and market analysis.  
-
----
+- 📊 **Data Analysis**
+- 📈 **Finance Buff**
 
 ## 🏆 Portfolio Highlights  
 
