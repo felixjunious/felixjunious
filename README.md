@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Felix Junious!  
 
 🎓 **B.Sc. Business Informatics @ TU Berlin**  
-🔍 Focused on **Business, Finance** and **IT**  
+🔍 Focused on **Data** and **Finance** on the side
 
 ---
 
