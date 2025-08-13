@@ -2,25 +2,14 @@
 
 # 👋 Hi there, I'm Felix Junious!  
 
-🎓 **B.Sc. Business Informatics @ TU Berlin**  
-🔍 Focused on **Data** and **Finance** on the side
+🎓 **B.Sc. Information System @ TU Berlin**  
 
 ---
 
 ## 🚀 About Me  
 
 - 📊 **Data Analysis**
-- 📈 **Finance Buff**
 
-## 🏆 Portfolio Highlights  
-
-- 📌 [Berlin Airbnb Analysis](https://github.com/felixjunious/berlin-airbnb-analysis)  
-  An in-depth analysis of Berlin Airbnb listings, uncovering insights with Pandas and Python.  
-
-- 📌 [Retail Dataset Analysis](https://github.com/felixjunious/retail-analysis)  
-  An analytical deep dive into retail trends using Python and data visualization.  
-
----
 
 ## 📈 Stats  
 
