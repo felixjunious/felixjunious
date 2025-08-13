@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-- 📊 **Data Analysis**
+- 📊 **Pursuing Data Analysis**
 
 ## 📫 Let's Connect  
 
