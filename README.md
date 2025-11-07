@@ -6,10 +6,6 @@
 
 ---
 
-## 🚀 About Me  
-
-- 📊 **Pursuing Data Analysis**
-
 ## 📫 Let's Connect  
 
 - 📧 Email: [juniousfelix7@gmail.com](juniousfelix7@gmail.com)  
