@@ -4,8 +4,6 @@
 
 🎓 **B.Sc. Information System @ TU Berlin**  
 
-# 👋 Hi, I'm [Your Name]
-
 🚀 Aspiring Data Engineer | Python Developer 
 
 ---
