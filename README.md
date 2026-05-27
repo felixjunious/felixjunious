@@ -4,7 +4,7 @@
 
 🎓 **B.Sc. Information System @ TU Berlin**  
 
-🚀 Aspiring Data Engineer | Python Developer 
+🚀 Aspiring Data Engineer 
 
 ---
 
@@ -26,6 +26,7 @@
 * SQL
 * Git & GitHub
 * Web Programming (MEVN stack)
+* FastAPI
 
 **Data Engineering (Learning / Using):**
 
