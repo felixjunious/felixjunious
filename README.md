@@ -1,52 +1,52 @@
 ---
 
-# 👋 Hi there, I'm Felix Junious!  
+# 👋 Hi, I'm Felix Junious!
 
-🎓 **B.Sc. Information System @ TU Berlin**  
+🎓 **B.Sc. Information Systems @ TU Berlin**
 
-🚀 Aspiring Data Engineer 
+🔧 **Backend & AI Engineer** — currently building DSGVO-compliant AI infrastructure
 
 ---
 
 ## 🧠 About Me
 
-* 🎯 Currently focused on becoming a **Data Engineer**
-* 🐍 Strong foundation in **Python** and data processing
-* ☁️ Learning **Cloud & Big Data technologies**
-* 🛠️ Interested in building scalable data pipelines and systems
-* 📚 Following a structured Computer Science path (OSSU)
+* 💼 Working as a Backend & DevOps Engineer at an IT systemhouse in Germany
+* 🤖 Focused on **LLM deployment** and **AI infrastructure**
+* 🐍 Strong foundation in **Python**, APIs, and containerized systems
+* 🌱 Currently learning AI Engineer stuffs.
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages & Tools:**
-
 * Python
 * SQL
 * Git & GitHub
-* Web Programming (MEVN stack)
 * FastAPI
+* Docker
+* Linux (Ubuntu Server)
 
-**Data Engineering (Learning / Using):**
+**Data & Backend:**
+* Pandas, NumPy
+* PostgreSQL, MySQL
+* REST APIs
 
-* Pandas
-* Apache Spark
-* Airflow (learning)
-* Docker (learning)
+**AI / Infrastructure (Active Focus):**
+* LLM Deployment
+* DSGVO-compliant AI systems
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: [juniousfelix7@gmail.com](juniousfelix7@gmail.com) 
-* Email: [LinkedIn](https://www.linkedin.com/in/felix-junious-32a990272)
+* 📧 Email: [juniousfelix7@gmail.com](mailto:juniousfelix7@gmail.com)
+* 💼 LinkedIn: [felix-junious](https://www.linkedin.com/in/felix-junious-32a990272)
 
 ---
 
 ## ⚡ Fun Fact
 
-I drink coffee 
+I drink coffee
 
 ---
-
