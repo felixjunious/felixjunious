@@ -44,9 +44,3 @@
 * 💼 LinkedIn: [felix-junious](https://www.linkedin.com/in/felix-junious-32a990272)
 
 ---
-
-## ⚡ Fun Fact
-
-I drink coffee
-
----
