@@ -13,7 +13,8 @@
 * 💼 Working as a Backend & DevOps Engineer at an IT systemhouse in Germany
 * 🤖 Focused on **LLM deployment** and **AI infrastructure**
 * 🐍 Strong foundation in **Python**, APIs, and containerized systems
-* 🌱 Currently learning AI Engineer stuffs.
+* 🌱 Currently learning **AI engineering**
+* ⚙️ Learning **C** and diving into low-level systems programming
 
 ---
 
