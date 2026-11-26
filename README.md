@@ -4,13 +4,13 @@
 
 🎓 **B.Sc. Information Systems @ TU Berlin**
 
-🔧 **Backend & AI Engineer** — currently building DSGVO-compliant AI infrastructure
+🔧 **Software Engineer** — currently building DSGVO-compliant AI infrastructure, and integrating Document Management System with an ERP
 
 ---
 
 ## 🧠 About Me
 
-* 💼 Working as a Backend & DevOps Engineer at an IT systemhouse in Germany
+* 💼 Working as a Software Engineer at an IT systemhouse in Germany
 * 🤖 Focused on **LLM deployment** and **AI infrastructure**
 * 🐍 Strong foundation in **Python**, APIs, and containerized systems
 * 🌱 Currently learning **AI engineering**
